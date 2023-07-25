@@ -1,0 +1,20 @@
+{
+  "name": "closures-scope-js-platzi",
+  "version": "1.0.0",
+  "description": "Curso Platzi de closures y scopes en Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okipe/closures-scope-JS-platzi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okipe/closures-scope-JS-platzi/issues"
+  },
+  "homepage": "https://github.com/okipe/closures-scope-JS-platzi#readme"
+}
